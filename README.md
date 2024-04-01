@@ -19,7 +19,7 @@ This repository contains HTML and CSS files for a simple blog preview. The previ
 
 ```git clone https://github.com/your-username/blog-preview.git```
 
-2.Open index.html in your web browser to view the blog preview.
+2. Open index.html in your web browser to view the blog preview.
 
 ## Customization
 
