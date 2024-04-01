@@ -1,4 +1,4 @@
-# Blog Preview
+# Blog Preview Card
 
 This repository contains HTML and CSS files for a simple blog preview. The preview showcases a card layout representing a blog post with an image, publication date, title, content, and author information.
 
