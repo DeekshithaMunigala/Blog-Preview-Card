@@ -2,6 +2,10 @@
 
 This repository contains HTML and CSS files for a simple blog preview. The preview showcases a card layout representing a blog post with an image, publication date, title, content, and author information.
 
+## Demo
+
+you can try out the app live [here](https://blog-preview-card-1532.vercel.app/)
+
 ## Technologies Used
 
 - HTML
